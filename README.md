@@ -1,1 +1,1 @@
-# ecom
+# ecommerce_demo
